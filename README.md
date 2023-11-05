@@ -9,8 +9,11 @@ Press 'q' to quit program (might have to press multiple times)
 
 Imports:
 gspread          5.11.2             -pip install gspread
+
 pyzbar           0.1.9              -pip install pyzbar
+
 opencv-python    4.8.0.76           -pip install opencv-python
+
 numpy            1.26.0 (needed for opencv download)
 
 

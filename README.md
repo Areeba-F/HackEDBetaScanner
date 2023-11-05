@@ -1,9 +1,6 @@
 # HackEDBetaScanner
 QR Scanner for HackED Beta Registration
 
-'''
-Qr Scanner
-
 When run, will open a cv2 video capture. 
 Hold QR code infront of camera, and wait for information pop-up
 
